@@ -12,7 +12,7 @@ Projects:
 - Future tools & experiments
 
 Interests:
-- Streaming
+- Coding
 - Gaming
 - UI aesthetics
 - Cyberpunk themes
