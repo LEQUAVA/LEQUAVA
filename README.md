@@ -90,7 +90,7 @@ Developer passionate about clean code, beautiful interfaces, and creative automa
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-LEQUAVA-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
+[![Discord](https://img.shields.io/badge/Discord-LEQUAVA-5865F2?style=for-the-badge&logo=discord&logoColor=white)](discord.com/channels/@LEQUAVA)
 [![GitHub](https://img.shields.io/badge/GitHub-@LEQUAVA-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LEQUAVA)
 
 </div>
@@ -107,6 +107,6 @@ Developer passionate about clean code, beautiful interfaces, and creative automa
 
 ---
 
-### Made with ❤️ and a passion for clean code & beautiful design
+### Made with ❤️ and passion for clean & beautiful design
 
 </div>
