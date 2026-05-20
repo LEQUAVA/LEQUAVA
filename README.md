@@ -1,112 +1,70 @@
-# LEQUAVA (707)
+# Hey, I'm LEQUAVA (707) 👋
 
 <div align="center">
 
 [![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Web Development](https://img.shields.io/badge/Web%20Dev-HTML%20|%20CSS%20|%20JS-FF6B6B?style=for-the-badge&logo=web)](https://developer.mozilla.org/)
-[![Automation](https://img.shields.io/badge/Automation-Python-4CAF50?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![UI Design](https://img.shields.io/badge/UI%20Design-Modern%20Aesthetics-9C27B0?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 
-### *Developer • Creator • Internet Wanderer*
-
----
-
-</div>
-
-## 👋 About
-
-Developer passionate about clean code, beautiful interfaces, and creative automation. I thrive at the intersection of functionality and aesthetics, constantly exploring new technologies and design paradigms.
-
----
-
-## 🎓 Currently Learning
-
-```
-📚 Python          → Scripting, automation, backend development
-🌐 Web Dev         → Modern frameworks, responsive design, tooling
-⚙️ Automation     → Process optimization, intelligent workflows
-🎨 UI/UX Design   → Design principles, cyberpunk aesthetics
-```
-
----
-
-## 🚀 Projects & Experiments
-
-<table>
-<tr>
-<td><b>🧮 Calculator</b></td>
-<td>A sleek calculation tool with modern UI and smooth interactions</td>
-</tr>
-<tr>
-<td><b>🔧 Tools</b></td>
-<td>Utility applications for automation and workflow optimization</td>
-</tr>
-<tr>
-<td><b>🧪 Experiments</b></td>
-<td>Exploring cutting-edge technologies and design patterns</td>
-</tr>
-</table>
-
-*More projects coming soon...*
-
----
-
-## 💡 Interests
-
-<div align="center">
-
-| 💻 Coding | 🎮 Gaming | 🎨 Design | 🌃 Aesthetics |
-|-----------|-----------|-----------|---------------|
-| Clean architecture | Game mechanics | Visual hierarchy | Cyberpunk vibes |
-| Best practices | Interactive UX | Modern interfaces | Neon aesthetics |
-| Optimization | Game design | Pixel perfection | Dark mode lover |
+### *Full-Stack Developer | UI/UX Enthusiast | Tech Explorer*
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 👋 About Me
 
-<div align="center">
+I'm a passionate developer who loves building beautiful, functional applications. I believe great software is where clean code meets thoughtful design. When I'm not coding, you'll find me exploring new technologies, gaming, or getting lost in cyberpunk aesthetics.
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-
-</div>
+I'm always eager to learn and experiment with new tools—whether it's mastering backend systems or perfecting pixel-perfect interfaces.
 
 ---
 
-## 🔗 Connect With Me
+## 🎯 What I'm Working On
 
-<div align="center">
+- 🚀 **Local Event Discovery** - A full-stack event aggregation platform with AI recommendations
+- 🧮 **Calculator App** - A sleek, modern calculator with hidden features
+- 📚 Constantly learning best practices in web development and system design
+- 🔍 Exploring advanced frontend frameworks and backend optimization
 
-[![Discord](https://img.shields.io/badge/Discord-LEQUAVA-5865F2?style=for-the-badge&logo=discord&logoColor=white)](discord.com/channels/@LEQUAVA)
-[![GitHub](https://img.shields.io/badge/GitHub-@LEQUAVA-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LEQUAVA)
+---
 
-</div>
+## 🛠️ My Toolkit
+
+**Languages:** Python, JavaScript/TypeScript, HTML5, CSS3  
+**Frontend:** React, Next.js, Tailwind CSS, Framer Motion  
+**Backend:** Node.js, Express, PostgreSQL, Redis  
+**Tools:** Git, VS Code, Docker, Figma  
+
+---
+
+## 💡 What Drives Me
+
+| 💻 Code | 🎨 Design | ⚡ Performance | 🎮 Fun |
+|---------|-----------|----------------|--------|
+| Clean, maintainable, scalable | Beautiful user experiences | Optimization matters | Code should be enjoyable |
+| Best practices & patterns | Modern aesthetics | Speed & efficiency | Experiments & learning |
+| Architecture & design | Accessibility first | Analytics & monitoring | Creative projects |
+
+---
+
+## 🤝 Let's Connect
+
+- **GitHub:** [@LEQUAVA](https://github.com/LEQUAVA)
+- **Discord:** LEQUAVA
+- **Email:** Open to collaborations and discussions
 
 ---
 
 <div align="center">
 
-## 📊 Repository Info
+## 🚀 Currently Open To
 
-> 🔄 Actively Learning | 🎯 Building Projects | 💡 Experimenting | 🎨 Designing
+- Collaborating on interesting projects
+- Learning from experienced developers
+- Building something cool together
 
-**Last Updated:** May 2026
-
----
-
-### Made with ❤️ and passion for clean & beautiful design
+**Last Updated:** May 2026 | Made with ❤️ and a love for great design
 
 </div>
