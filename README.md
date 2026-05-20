@@ -1,4 +1,4 @@
-# Hey, I'm LEQUAVA (707) 👋
+# Hey, I'm LEQUAVA (707) 
 
 <div align="center">
 
@@ -13,7 +13,7 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 I'm a passionate developer who loves building beautiful, functional applications. I believe great software is where clean code meets thoughtful design. When I'm not coding, you'll find me exploring new technologies, gaming, or getting lost in cyberpunk aesthetics.
 
@@ -21,7 +21,7 @@ I'm always eager to learn and experiment with new tools—whether it's mastering
 
 ---
 
-## 🎯 What I'm Working On
+## What I'm Working On
 
 - 🚀 **Local Event Discovery** - A full-stack event aggregation platform with AI recommendations
 - 🧮 **Calculator App** - A sleek, modern calculator with hidden features
@@ -30,7 +30,7 @@ I'm always eager to learn and experiment with new tools—whether it's mastering
 
 ---
 
-## 🛠️ My Toolkit
+## My Toolkit
 
 **Languages:** Python, JavaScript/TypeScript, HTML5, CSS3  
 **Frontend:** React, Next.js, Tailwind CSS, Framer Motion  
@@ -39,7 +39,7 @@ I'm always eager to learn and experiment with new tools—whether it's mastering
 
 ---
 
-## 💡 What Drives Me
+## What Drives Me
 
 | 💻 Code | 🎨 Design | ⚡ Performance | 🎮 Fun |
 |---------|-----------|----------------|--------|
@@ -49,7 +49,7 @@ I'm always eager to learn and experiment with new tools—whether it's mastering
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 - **GitHub:** [@LEQUAVA](https://github.com/LEQUAVA)
 - **Discord:** LEQUAVA
@@ -59,12 +59,12 @@ I'm always eager to learn and experiment with new tools—whether it's mastering
 
 <div align="center">
 
-## 🚀 Currently Open To
+## Currently Open To
 
 - Collaborating on interesting projects
 - Learning from experienced developers
 - Building something cool together
 
-**Last Updated:** May 2026 | Made with ❤️ and a love for great design
+**Last Updated:** May 2026 | Made with ❤️ and love for great designs
 
 </div>
