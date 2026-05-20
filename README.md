@@ -26,7 +26,7 @@ always eager to learn and experiment with new tools.
 - 🚀 **Local Event Discovery** - A full-stack event aggregation platform
 - 🧮 **Calculator App** - A sleek, modern calculator
 - 📚 Constantly learning best practices in web development and system design
-- 🔍 Checking advanced frontend frameworks and backend optimization
+- 🔍 Trying out new frameworks and improving performance along the way
 
 ---
 
