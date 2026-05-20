@@ -7,7 +7,7 @@
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 
-### *Full-Stack Developer | UI/UX Enthusiast | Tech Explorer*
+### *developer | design enjoyer | learning as i go*
 
 </div>
 
@@ -15,7 +15,7 @@
 
 ## About Me
 
-A developer who loves building functional applications. I believe great software is where clean code meets thoughtful design. When I'm not coding, you'll find me gaming.
+A developer who loves building functional applications. I like building things that feel smooth to use and clean under the hood. When I'm not coding, you'll find me gaming.
 
 always eager to learn and experiment with new tools.
 
