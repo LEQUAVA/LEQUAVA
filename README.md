@@ -15,7 +15,7 @@
 
 ## About Me
 
-I'm a passionate developer who loves building beautiful, functional applications. I believe great software is where clean code meets thoughtful design. When I'm not coding, you'll find me exploring new technologies, gaming, or getting lost in cyberpunk aesthetics.
+A developer who loves building functional applications. I believe great software is where clean code meets thoughtful design. When I'm not coding, you'll find me gaming.
 
 I'm always eager to learn and experiment with new tools—whether it's mastering backend systems or perfecting pixel-perfect interfaces.
 
@@ -23,10 +23,10 @@ I'm always eager to learn and experiment with new tools—whether it's mastering
 
 ## What I'm Working On
 
-- 🚀 **Local Event Discovery** - A full-stack event aggregation platform with AI recommendations
-- 🧮 **Calculator App** - A sleek, modern calculator with hidden features
+- 🚀 **Local Event Discovery** - A full-stack event aggregation platform
+- 🧮 **Calculator App** - A sleek, modern calculator
 - 📚 Constantly learning best practices in web development and system design
-- 🔍 Exploring advanced frontend frameworks and backend optimization
+- 🔍 Checking advanced frontend frameworks and backend optimization
 
 ---
 
