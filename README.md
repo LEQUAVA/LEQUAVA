@@ -17,7 +17,7 @@
 
 A developer who loves building functional applications. I believe great software is where clean code meets thoughtful design. When I'm not coding, you'll find me gaming.
 
-I'm always eager to learn and experiment with new tools—whether it's mastering backend systems or perfecting pixel-perfect interfaces.
+always eager to learn and experiment with new tools.
 
 ---
 
