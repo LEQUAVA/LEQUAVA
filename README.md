@@ -1,16 +1,18 @@
-## Hi there 👋
+# LEQUAVA (707)
 
-<!--
-**LEQUAVA/LEQUAVA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer / creator / internet wanderer
 
-Here are some ideas to get you started:
+Currently learning:
+- Python
+- Web development
+- Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects:
+- Calculator
+- Future tools & experiments
+
+Interests:
+- Streaming
+- Gaming
+- UI aesthetics
+- Cyberpunk themes
