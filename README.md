@@ -23,10 +23,10 @@ always eager to learn and experiment with new tools.
 
 ## What I'm Working On
 
-- 🚀 **Local Event Discovery** - A full-stack event aggregation platform
-- 🧮 **Calculator App** - A sleek, modern calculator
-- 📚 Constantly learning best practices in web development and system design
-- 🔍 Trying out new frameworks and improving performance along the way
+-  **Local Event Discovery** - A full-stack event aggregation platform
+-  **Calculator App** - A sleek, modern calculator
+-  Constantly learning best practices in web development and system design
+-  Trying out new frameworks and improving performance along the way
 
 ---
 
