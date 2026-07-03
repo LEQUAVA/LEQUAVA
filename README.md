@@ -65,6 +65,6 @@ always eager to learn and experiment with new tools.
 - Learning from experienced developers
 - Building something cool together
 
-**Last Updated:** May 2026 | Made with ❤️
+ **Last Updated:** May 2026 | Made with ❤️
 
 </div>
