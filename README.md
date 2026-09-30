@@ -51,7 +51,6 @@ always eager to learn and experiment with new tools.
 
 ## Let's Connect
 
-- **GitHub:** [@LEQUAVA](https://github.com/LEQUAVA)
 - **Discord:** LEQUAVA
 - **Email:** Open to collaborations and discussions
 
