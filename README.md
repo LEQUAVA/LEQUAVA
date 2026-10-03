@@ -1,69 +1,34 @@
-# Hey, I'm LEQUAVA (707) 
+# hey, i'm LEQUAVA 👋
 
-<div align="center">
+I build web stuff, mess with design, and learn mostly by making things until they work the way I want.
 
-[![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+This profile is basically my workshop — finished projects, half-finished ideas, rewrites, experiments, and the occasional thing I probably spent too long polishing.
 
-### *developer | design enjoyer | learning as i go*
+## what i'm working on
 
-</div>
+- **Calculator** — a vanilla JavaScript calculator with history, keyboard controls, extra functions, and a small easter egg.
+- **Local Event Discovery** — a larger full-stack project I'm building out piece by piece.
+- **Smaller experiments** — trying to ship more little things instead of leaving every idea in a folder forever.
 
----
+## stuff i use
 
-## About Me
+`JavaScript` `TypeScript` `Python` `React` `Node.js` `HTML` `CSS` `PostgreSQL` `Git`
 
-A developer who loves building functional applications. I like building things that feel smooth to use and clean under the hood. When I'm not coding, you'll find me gaming.
+I'm also interested in UI, motion, performance, and making apps feel good to actually use.
 
-always eager to learn and experiment with new tools.
+## currently
 
----
+- cleaning up older projects
+- getting better at writing simpler code
+- building more often instead of waiting for everything to be perfect
+- learning more backend/system design as I go
 
-## What I'm Working On
+## outside code
 
--  **Local Event Discovery** - A full-stack event aggregation platform
--  **Calculator App** - A sleek, modern calculator
--  Constantly learning best practices in web development and system design
--  Trying out new frameworks and improving performance along the way
-
----
-
-## My Toolkit
-
-**Languages:** Python, JavaScript/TypeScript, HTML5, CSS3  
-**Frontend:** React, Next.js, Tailwind CSS, Framer Motion  
-**Backend:** Node.js, Express, PostgreSQL, Redis  
-**Tools:** Git, VS Code, Docker, Figma  
+Mostly gaming and anything with good visual design.
 
 ---
 
-## What Drives Me
+If you find something interesting here, feel free to look around.
 
-| 💻 Code | 🎨 Design | ⚡ Performance | 🎮 Fun |
-|---------|-----------|----------------|--------|
-| Clean, maintainable, scalable | Beautiful user experiences | Optimization matters | Code should be enjoyable |
-| Best practices & patterns | Modern aesthetics | Speed & efficiency | Experiments & learning |
-| Architecture & design | Accessibility first | Analytics & monitoring | Creative projects |
-
----
-
-## Let's Connect
-
-- **Discord:** LEQUAVA
-- **Email:** Open to collaborations and discussions
-
----
-
-<div align="center">
-
-## Currently Open To
-
-- Collaborating on interesting projects
-- Learning from experienced developers
-- Building something cool together
-
-      **Last Updated:** May 2026 | Made with ❤️
-
-</div>
+**last updated:** october 2026
