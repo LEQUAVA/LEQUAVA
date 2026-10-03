@@ -6,7 +6,7 @@ This profile is basically my workshop — finished projects, half-finished ideas
 
 ## what i'm working on
 
-- **Calculator** — a vanilla JavaScript calculator with history, keyboard controls, extra functions, and a small easter egg.
+- **[Calculator](https://github.com/LEQUAVA/Calculator)** — a vanilla JavaScript calculator with history, keyboard controls, extra functions, and a small easter egg.
 - **[Backlog Roulette](https://github.com/LEQUAVA/backlog-roulette)** — a tiny game picker for when choosing what to play becomes its own activity.
 - **Local Event Discovery** — a larger full-stack project I'm building out piece by piece.
 - **Smaller experiments** — trying to ship more little things instead of leaving every idea in a folder forever.
